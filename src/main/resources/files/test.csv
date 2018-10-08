@@ -1,0 +1,14 @@
+ID,Status,Amount,ApplicationSignedHour,ApplicationSignedWeekday,City,Country,CreditScoreEsEquifaxRisk,DateOfBirth,DebtToIncome,Education,EmploymentDurationCurrentEmployer,EmploymentPosition,EmploymentStatus,ExistingLiabilities,Gender,HomeOwnershipType,IncomeFromPrincipalEmployer,IncomeTotal,Interest rate (APR),LoanDate,LoanDuration,MaritalStatus,NewCreditCustomer,NoOfPreviousLoansBeforeLoan,OccupationArea,UseOfLoan,VerificationType,WorkExperience,PreviousScore,Defaulted,DefaultDate
+886,Late,3500,14,1,TURKU,FI,,22/04/1965,29.86,3,MoreThan5Years,Worker,3,7,1,5,2343,2343,25.21,30/08/2015,60,1,FALSE,2,17,7,3,MoreThan25Years,0.0912,TRUE,31/08/2016
+109,Current,7000,12,3,TALLINN,EE,,25/01/1984,30.01,2,TrialPeriod,Worker,3,1,0,2,500,733,23.69,11/08/2015,60,3,FALSE,0,1,2,4,10To15Years,0.0903,FALSE,
+21789,Late,3190,11,7,KUOPIO,FI,,16/12/1971,34.73,4,MoreThan5Years,SpecialistOfficeWorker,3,7,0,8,1823,2024,25.03,05/03/2016,60,1,TRUE,0,1,2,4,15To25Years,0.1766,TRUE,18/07/2016
+21790,Late,3190,16,2,SÖDERKULLA,FI,,06/03/1983,66.47,3,MoreThan5Years,Worker,3,11,0,3,1800,2000,38.79,07/03/2016,18,1,TRUE,0,9,0,3,10To15Years,0.3977,FALSE,
+21791,Current,3595,8,7,OULU,FI,,06/05/1954,50.43,3,UpTo1Year,Worker,6,5,1,4,0,1305,19.13,12/03/2016,60,3,TRUE,0,1,0,4,LessThan2Years,0.1134,FALSE,
+21792,Late,1595,10,2,GETAFE,ES,B,23/10/1970,15.43,5,UpTo2Years,Worker,3,4,0,2,800,1860,39.66,07/03/2016,60,3,FALSE,2,1,6,3,15To25Years,0.2943,TRUE,16/09/2016
+21795,Current,5420,16,2,JÕHVI,EE,,27/07/1989,15,5,UpTo5Years,MiddleManager,5,2,0,3,1016,1610,25.8,07/03/2016,60,2,TRUE,0,8,1,4,5To10Years,0.1766,FALSE,
+21796,Late,6585,14,6,TAMPERE,FI,,06/03/1953,29.51,2,UpTo3Years,Pensioner,6,1,0,4,0,1300,33.33,11/03/2016,60,4,TRUE,0,1,2,1,MoreThan25Years,0.2544,TRUE,16/09/2016
+21798,Current,795,16,4,BURGOS,ES,B,23/01/1978,28.07,4,MoreThan5Years,SpecialistOfficeWorker,3,4,0,5,1810,1810,54.32,09/03/2016,60,3,FALSE,2,14,2,3,15To25Years,0.4667,FALSE,
+21799,Current,6630,14,4,HYVINKÄÄ,FI,,07/11/1956,59.09,5,MoreThan5Years,SpecialistOfficeWorker,3,6,1,6,1700,1700,19.91,09/03/2016,60,2,FALSE,1,15,8,1,15To25Years,0.1131,FALSE,
+21800,Repaid,1060,12,2,TALLINN,EE,,21/04/1952,18.5,5,MoreThan5Years,Pensioner,5,3,0,7,1500,2000,14.17,07/03/2016,60,4,FALSE,5,18,7,1,MoreThan25Years,0.0447,FALSE,
+21801,Current,3030,16,6,LOHJA,FI,,07/05/1961,47.7,2,MoreThan5Years,Worker,3,3,1,4,1477,1477,28.26,11/03/2016,60,1,TRUE,0,15,7,3,MoreThan25Years,0.2047,FALSE,
+21802,Repaid,635,23,2,SAKU,EE,,16/02/1994,1.19,4,UpTo1Year,Worker,3,5,0,1,16300,16400,19.6,07/03/2016,12,3,TRUE,0,1,0,4,2To5Years,0.1253,FALSE,
